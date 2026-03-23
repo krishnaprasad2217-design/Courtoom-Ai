@@ -1,0 +1,15 @@
+# Python 3.9.25
+#conda create --name liedet2 python=3.9.25 -y
+#conda activate liedet2
+#pip install -r requirements.txt
+# Note: tkinter is built-in with Python (no pip install needed)
+mediapipe==0.10.5
+opencv-python 
+numpy 
+matplotlib
+scipy
+Pillow  # For Tkinter image display
+fer
+scikit-learn
+sounddevice  # For microphone audio recording
+openai-whisper  # For speech-to-text transcription
